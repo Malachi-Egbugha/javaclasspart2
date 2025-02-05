@@ -7,6 +7,7 @@ public class Workingwitharrays {
     int a;
     int b;
 
+
     public static void main(String[] args) {
         Child a = new Child();
         a.show();
